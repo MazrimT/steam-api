@@ -1,0 +1,6 @@
+__pycache__
+venv
+log
+*database.db
+*data.json
+*.csv
